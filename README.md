@@ -6,8 +6,10 @@ This repository contains implementations of various clustering algorithms in R S
 
 - **KMeans_Clustering.R**: Implementation of the K-means clustering algorithm.
 - **Hierarchical_Clustering.R**: Implementation of hierarchical clustering techniques.
-- **DBSCAN_Clustering.R**: Implementation of the DBSCAN algorithm.
-- **Evaluation_Methods.R**: Various evaluation methods for assessing clustering results.
+- **CLARA_Clustering.R**: Implementation of the CLARA algorithm.
+- **Fuzzy_C-Means_Clustering.R**: Implementation of Fuzzy C-Means algorithm.
+- **Agglomerative_Clustering.R**: Implementation of agglomerative clustering techniques.
+- **K-Medoid_Clustering.R**: Implementation of the K-medoid clustering algorithm.
 
 ## Usage
 
